@@ -23,6 +23,3 @@ Stocks Using Python - https://www.youtube.com/playlist?list=PLAlAGrU-NzBd5ebrpYn
 
 ## Insta Link - https://www.instagram.com/futureautomate/
 
------------------------------------------------ Coding Part------------------------------------------
-
-Git Hub Link - https://github.com/futureautomate/amazon-automation-part3
